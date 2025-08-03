@@ -1,0 +1,27 @@
+# core numeric & data
+numpy>=1.20
+pandas>=1.3
+scikit-learn>=1.0
+joblib>=1.0
+
+# PyTorch + SAINT
+torch>=1.8.1
+torchvision>=0.9.1
+
+# gradient‑boosting libraries
+catboost>=1.0
+lightgbm>=3.0
+
+# analysis & visualization
+matplotlib>=3.4
+seaborn>=0.11
+
+# configuration & progress
+pyyaml>=5.4
+tqdm>=4.60
+
+# optional logging
+wandb>=0.12
+
+# specify Python version
+python>=3.8,<3.11
