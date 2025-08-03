@@ -46,15 +46,18 @@ The files contain extensive financial and accounting features necessary for the 
 
 ## Installation
 
-Clone and set up the virtual environment:
+You can run all scripts **from the project root** without changing directories.
 
-```bash
-git clone git@github.com:<your-username>/embedding_project.git
-cd embedding_project
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+1. **Clone your GitHub repo (make sure branch is `main`)**  
+
+   ```bash
+   git clone git@github.com:donggeun‑kim‑oxford/firm‑character‑embedding.git
+   cd firm-character-embedding
+   python3 -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   ```
+
 
 ## Usage
 
